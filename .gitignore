@@ -1,0 +1,5 @@
+**/*.parquet
+**/*-checkpoint
+**/*.ipynb
+**/*.csv
+**/*.cache
